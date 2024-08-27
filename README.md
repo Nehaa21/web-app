@@ -36,11 +36,14 @@ This project is a two-page web application built using React, TanStack Table, Re
 
 ## Installation
 
-To get started with this project, follo![Screenshot 2024-08-27 104159](https://github.com/user-attachments/assets/d7339bf9-f5e8-4df7-b422-c0051e86030c)
-w these steps:
+To get started with this project, follow these steps:
 
 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/apsar7860/people-directory
    cd your-repository
+
+# This is UI of Web app:
+
+![Screenshot 2024-08-27 104159](https://github.com/user-attachments/assets/3b5a6211-716f-466f-b11d-d59541ac903b)
