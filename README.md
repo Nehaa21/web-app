@@ -56,6 +56,7 @@ To get started with this project, follow these steps:
 
 ![Screenshot 2024-08-27 104256](https://github.com/user-attachments/assets/b499ecc4-e603-4665-aaa2-155e96ae7003)
 
-# When the search bar is used to search for a name like 'Dana Cronin' the URL should reflect it as well -> "http://localhost:3000/people?query=dana%20cronin"
+# When the search bar is used to search for a name like 'Dana Cronin' 
+The URL should reflect it as -> "http://localhost:3000/people?query=dana%20cronin"
 
 ![Screenshot 2024-08-27 104352](https://github.com/user-attachments/assets/f1b33276-9540-429a-8583-a813669fde46)
