@@ -47,11 +47,15 @@ To get started with this project, follow these steps:
 # This is UI of Web app:
 
 ![Screenshot 2024-08-27 104159](https://github.com/user-attachments/assets/3b5a6211-716f-466f-b11d-d59541ac903b)
-#This is People Directory:
+
+# This is People Directory:
 
 ![Screenshot 2024-08-27 104232](https://github.com/user-attachments/assets/969b17fa-f145-46c4-ab9b-9ccac7faf11b)
-#This is where you can add,update,delete,edit members:
+
+# This is where you can add,update,delete,edit members:
 
 ![Screenshot 2024-08-27 104256](https://github.com/user-attachments/assets/b499ecc4-e603-4665-aaa2-155e96ae7003)
-#When the search bar is used to search for a name like 'Dana Cronin' the URL should reflect it as well -> "http://localhost:3000/people?query=dana%20cronin"
+
+# When the search bar is used to search for a name like 'Dana Cronin' the URL should reflect it as well -> "http://localhost:3000/people?query=dana%20cronin"
+
 ![Screenshot 2024-08-27 104352](https://github.com/user-attachments/assets/f1b33276-9540-429a-8583-a813669fde46)
