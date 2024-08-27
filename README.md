@@ -36,7 +36,8 @@ This project is a two-page web application built using React, TanStack Table, Re
 
 ## Installation
 
-To get started with this project, follow these steps:
+To get started with this project, follo![Screenshot 2024-08-27 104159](https://github.com/user-attachments/assets/d7339bf9-f5e8-4df7-b422-c0051e86030c)
+w these steps:
 
 1. **Clone the Repository**
 
